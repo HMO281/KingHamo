@@ -1,0 +1,46 @@
+body {
+      background-color: LightCyan;
+      margin:0;
+     }
+hr {
+      border-top: 5px dotted DarkCyan;
+      width: 95%
+   }
+h1 {
+    color: DarkOliveGreen;
+        margin-top:0;
+}
+h1:hover {
+    color: Blue;
+}
+h2 {
+    color: DarkOliveGreen;
+}
+h3 {
+    color: DarkOliveGreen;
+}
+div {
+    height: 450px;
+    width: 100%;
+    background-color: PowderBlue;
+    background-image: url("Picture2.svg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    border-style: none;
+    padding-top: 150px;
+    padding-bottom:150px;
+}
+
+#second_part {
+    height: 450px;
+    width: 100%;
+    background-color: PowderBlue;
+    background-image: url("Picture2.svg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    border-style: none;
+    padding-top: 100px;
+    padding-bottom:50px;
+}
